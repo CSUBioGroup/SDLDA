@@ -13,7 +13,7 @@ scipy==0.18.1
 
 # Usage
 
-  In this GitHub project, we give a demo to show how DMFLDA works. In data_processing folder, we give following datasets we used in our study.
+  In this GitHub project, we give a demo to show how SDLDA works. In data_processing folder, we give following datasets we used in our study.
   
   1. lda_interMatrix.mat is the raw lncRNA-disease interaction matrix with matlab format. Its shape is 577 lncRNAs x 272 diseases.
   
