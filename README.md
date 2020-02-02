@@ -25,6 +25,8 @@ scipy==0.18.1
   
   5. v_feature.npy is the V matrix of SVD technique used in our study, its shape is 272x64.
   
+  6. lnc_index.txt is the names of lncRNAs with corresponding serial number.
+  
   In our demo, we provide a leave-one-out cross validation to evaluate our model. You can use cross_validation.py to see experimental results and predict lncRNA related diseases. If you want to tune some hyper-parameters, you can change some values of hyper-parameters in hyperparams.py. 
 
   The other details can see the paper and the codes.
